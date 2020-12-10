@@ -1,15 +1,15 @@
 /*
 * "Jangan modal nama doang bro!!!"
-* (Scriptnya lentbot)
+* (Scriptnya BotMeki)
 * jangan ubah semuanya kecuali nama bot instagram yt itu ajah yg lain jangan!!!
 * hargai pembuat skrip woy!!!
 */
-const XPTN = 'LENTBOT'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/maslent11'; // Nama Instagramlu cok
+const XPTN = '🤖BotMeki🤖'; // Nama Bot Whatsapp
+const instagram = 'https://instagram.com/adiganz.stotre'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+628165466368'; // Nomor whatsapplu cok
-const aktif = 'Tergantung jaringan'; // Kapan bot lu aktif
-const groupwa = 'https://chat.whatsapp.com/IKmRs4a36fIAyn7X16jpwL'; // OFFICIAL GRUP LU 1
-const youtube = 'https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA'; // OFFICIAL GRUP LU 2
+const aktif = '9.00-10.00 wib'; // Kapan bot lu aktif
+const groupwa = 'https://chat.whatsapp.com/GGogTiqGWSjFK4xNfuv53b'10; // OFFICIAL GRUP LU 1
+const youtube = 'https://-_'; // OFFICIAL GRUP LU 2
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -147,10 +147,10 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '.owner'){
-conn.sendMessage(id, 'Owner masLent wa.me/+628165466468' ,MessageType.text);
+conn.sendMessage(id, 'Owner AdiGanz wa.me/+6285591654034' ,MessageType.text);
 }
-else if (text == 'maslent'){
-conn.sendMessage(id, 'Aku BOT nya lentbot' ,MessageType.text);
+else if (text == 'AdiGanz'){
+conn.sendMessage(id, 'Aku BOT nya Adi' ,MessageType.text);
 }
 else if (text == 'Chichi'){
 conn.sendMessage(id, 'pacar owner ihh' ,MessageType.text);
@@ -174,7 +174,7 @@ else if (text == 'Hai'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
 }
 else if (text == '.ttp'){
-conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/6289655478810* ' ,MessageType.text);
+conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/6285591654034* ' ,MessageType.text);
 }
 else if (text == 'Woi'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
@@ -222,7 +222,7 @@ else if (text == '.coowner'){
 conn.sendMessage(id, 'kawan2 sum wa.me/+628557231695' ,MessageType.text);
 }
 else if (text == '.groupbot'){
-conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/IKmRs4a36fIAyn7X16jpwL' ,MessageType.text);
+conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/GGogTiqGWSjFK4xNfuv53b' ,MessageType.text);
 }
 else if (text == '.tools1'){
 conn.sendMessage(id, ' *Menampilkan Fitur tools1!!!* ' ,MessageType.text);

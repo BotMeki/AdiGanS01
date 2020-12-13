@@ -7,7 +7,7 @@
 const XPTN = '🤖BotMeki🤖'; // Nama Bot Whatsapp
 const instagram = 'https://instagram.com/adiganz.stotre'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6285591654034'; // Nomor whatsapplu cok
-const aktif = '9.00-10.00 wib'; // Kapan bot lu aktif
+const aktif = 'Tergantung Jaringan'; // Kapan bot lu aktif
 const groupwa = 'https://chat.whatsapp.com/GGogTiqGWSjFK4xNfuv53b'; // OFFICIAL GRUP LU 1
 const youtube = 'https://-_'; // OFFICIAL GRUP LU 2
 //
